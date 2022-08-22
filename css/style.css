@@ -1,0 +1,48 @@
+a{
+font-size: medium;
+text-decoration: none;
+opacity: 1;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.signup{
+    background-color: #37B54F;
+    color: #FFFFFF;
+    outline-color: "none";
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Download{
+    background-color: #37B54F;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}
+
+.card-text{
+    font-size: "5px";
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card-link{
+    text-decoration: none;
+    color: #37B54F;
+    font-size: ".7rem";
+}
+
+.crd{
+    cursor: pointer;
+}
+
+.crd:hover {
+    background: transparent linear-gradient(91deg, #080808 0%, #434343 100%) 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+  }
+
+
+
